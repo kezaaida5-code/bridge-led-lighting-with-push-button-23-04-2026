@@ -15,4 +15,3 @@ The components used are:-Arduino uno
 
 -Wires
 
-Powerful Crift (2)
